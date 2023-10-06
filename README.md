@@ -1,16 +1,25 @@
-<img src="https://github.com/pces8729/pces8729/assets/51408837/49f826b7-08df-4cbb-ab14-bf52994fb468"> </img>
+<img src="https://github.com/pces8729/pces8729/assets/51408837/49f826b7-08df-4cbb-ab14-bf52994fb468" width="600" Height="300"> </img>
 
-## Chris Yang #pces8729
 
-Hi👋 , I'm Chris! I love learing new technology and skills of web. Enjoy life enjoy code
+##  Hi👋there
+I'm ChrisYang, I love learning new technology and skills on the web, being an Engineer and Developer.
 
+<a title="tag" href="https://zh.wikipedia.org/wiki/javascript">
+  <img src="https://img.shields.io/badge/Personal_Info-Frontend%20Dev-%23bafeee?logo=adblock&labelColor=%238a79b5&link=https%3A%2F%2F" />
+</a> 
+
+
+
+## My Personal Info
 ## 🧠 That I know and use
-
 ### 📚Languages and Tools
 - HTML5
 - CSS3, SCSS, SASS
 - Bootstrap
 - JavaScript  
+<a target="_blank" title="JavaScript" href="https://zh.wikipedia.org/wiki/javascript">
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
+</a>
 
 ### 🔧 Tool
 - Version Control(Git/it-Flow)
