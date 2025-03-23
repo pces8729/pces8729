@@ -2,7 +2,7 @@
 
 ## Hi👋 there
 
-- I'm Chris Yang, I love learning new technology and skills on the web, being an Engineer and Developer.
+- I'm Ian Yang. I love learning new technology and skills on the web and being a developer.
 - Check my 🖋 [Personal site](https://github.com/pces8729) or 📫 [Linkedin](https://linkedin.com/in/https://www.linkedin.com/in/%e6%89%bf%e7%87%81-cheng-yeh-yang-%e6%a5%8a-701bb617a/)
 
 <a title="tag" href="https://github.com/pces8729">
